@@ -11,4 +11,6 @@ Headers Sizes:
 ###### H6 Testing
 
 
-** Created a list of header sizes
+``` javascript
+var myVar = "Hello, world!";
+```
